@@ -1,1 +1,2 @@
 this is a test : commit on branch main
+now we added rules on all branches.
