@@ -1,1 +1,3 @@
 * A new file
+
+Adding some content...
